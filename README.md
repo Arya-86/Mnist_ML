@@ -10,8 +10,8 @@ We approached this challenge by:
 * **Performance Optimization**: Fine-tuning our models to achieve high accuracy and efficiency in digit classification.
 
 ## Repository Contents
-* **/notebooks**: This directory contains the Google Colab notebook with our complete analysis, model development, and evaluation.
-* **MNIST_Classification.ipynb**: A comprehensive notebook detailing our approach from data preprocessing to model evaluation.
+* **Arya_Kaggle_03.ipynb**: This directory contains the Google Colab notebook with our complete analysis, model development, and evaluation.
+* **LICENSE**: A comprehensive notebook detailing our approach from data preprocessing to model evaluation.
 
 ## Technologies Used
 * **Python**: For all programming needs.
